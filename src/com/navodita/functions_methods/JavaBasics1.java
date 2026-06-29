@@ -6,10 +6,12 @@ public class JavaBasics1 {
         System.out.println("Hello world");
         System.out.println("Hello world");
         System.out.println("Hello world");
-        return (3);
+        return (3);// can return any integer value
     }
 
     public static void main(String[] args) {
+
         printHelloWorld(); // function call
+
     }
 }
